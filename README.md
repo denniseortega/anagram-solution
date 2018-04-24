@@ -15,11 +15,11 @@ _The web page application receives word inputs from the user--a single word and 
 * _Dotnet_
 
 ## Specifications
-* _An anagram is a word that can be rearranged to create a new word, like  
-  "bread" and "beard"_  
+* _(An anagram is a word that can be rearranged to create a new word, like  
+  "bread" and "beard")_  
 * _The user inputs a single word and a list of anagrams_
   * _Example Input ["by","angel", "baker", "begin"]_
-* _Program displays the list of anagrams"_
+* _Program only displays the list of anagrams"_
   * _Example Output ["angel", "baker", "begin"]_
 
 
